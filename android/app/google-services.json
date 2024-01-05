@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "946252754898",
+    "firebase_url": "https://led-dht-11-96ffd-default-rtdb.firebaseio.com",
+    "project_id": "led-dht-11-96ffd",
+    "storage_bucket": "led-dht-11-96ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946252754898:android:5667c72de32f6e34e7620b",
+        "android_client_info": {
+          "package_name": "com.forms.regapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsp1th4mZxkhAUbfBpLEM4cppA0ZJ-x2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
